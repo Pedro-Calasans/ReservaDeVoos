@@ -1,0 +1,2 @@
+# ReservaDeVoos
+Projeto feito no Tech Woman summit Avanade,  como eu consegui o Dio Pro como recompensa, agora eu to me escrevendo em tudo quanto é coisa, mesmo esse projeto na teoria não me deixa apto para participar do processo para entrar na empresa, ainda sim vai ser um aprendizado bacana  e uma boa adição para meu portifolio que em breve vai sair em forma de site (ta demorando KKKKKKKK) bom se alguém leu isso aqui valeu e se tiver me analisando me contrata por favor
